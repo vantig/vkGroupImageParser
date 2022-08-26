@@ -1,1 +1,1 @@
-"# vkGroupImageParser" 
+Fill Configuration.ini
